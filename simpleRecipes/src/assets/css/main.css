@@ -81,6 +81,16 @@ html {
   }
 }
 
+/* .purple {
+  color: var(--primary-700);
+  font-weight: 600;
+}
+
+.black {
+  color: var(--black);
+  font-weight: 600;
+} */
+
 body {
   background: var(--backgroundColor);
   color: var(--textColor);
