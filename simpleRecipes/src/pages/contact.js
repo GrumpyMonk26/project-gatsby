@@ -25,7 +25,11 @@ export default function contact({ data }) {
             </p>
           </article>
           <article>
-            <form action="" className="form contact-form">
+            <form
+              action="https://formspree.io/f/xwkyzadb"
+              className="form contact-form"
+              method="POST"
+            >
               <div className="form-row">
                 <label htmlFor="name">Your Name</label>
                 <input type="text" name="name" id="name" />
